@@ -1,0 +1,377 @@
+Altogether our results strongly suggest that GATA - 1 modulates the transcription of tal - 1 during the differentiation of the erythroid , megakaryocytic , and basosophilic lineages .
+RB PRP$ NNS RB VBP IN NN NN NN VBZ DT NN IN NN NN NN IN DT NN IN DT JJ , JJ , CC JJ NNS .
+6,9 G#protein|13,16 G#protein|21,28 G#cell_type
+
+The lytic transition of Epstein - Barr virus is imitated by recombinant B - cells .
+DT JJ NN IN JJ JJ JJ NN VBZ VBN IN JJ NNS NNS NNS .
+11,15 G#cell_line
+
+Lytic transition of Epstein - Barr virus ( EBV ) is initiated by distinct immediate early regulators of the viral cycle , in synchronization to temporary , permissive conditions during host cell differentiation .
+JJ NN IN JJ JJ JJ NN ( NN ) VBZ VBN IN JJ JJ JJ NNS IN DT JJ NN , IN NN TO JJ , JJ NNS IN NN NN NN .
+
+
+We developed eukaryotic vectors suitable to imitate the processes involved in lytic transition in cell culture systems .
+PRP VBD JJ NNS JJ TO VB DT NNS VBN IN JJ NN IN NN NN NNS .
+
+
+Two stable B cell lines were established : R59Z activator cells were used to induce lytic EBV expression in a constitutive manner by the production of the BZLF 1 trans - activator ( Zta ) .
+CD JJ NN NN NNS VBD VBN : NN NN NNS VBD VBN TO VB JJ NN NN IN DT JJ NN IN DT NN IN DT NN CD NN NN NN ( NN ) .
+2,5 G#cell_line|8,11 G#cell_line|27,32 G#protein|33,34 G#protein
+
+R7 - 57 reporter cells , on the other hand , signaled induced activity of the lytic origin of EBV replication ( ori Lyt ) .
+NN NN NN NN NNS , IN DT JJ NN , VBD VBN NN IN DT JJ NN IN NN NN ( NN NN ) .
+0,5 G#cell_line|16,21 G#DNA|22,24 G#DNA
+
+Different modes , like chemical induction , lytic superinfection with EBV and single gene trans - activation converted the recombinant ori Lyt element in R7 - 57 reporter cells .
+JJ NNS , IN JJ NN , JJ NN IN NN CC JJ NN NN NN NN VBD DT JJ NN NN NN IN NN NN NN NN NNS .
+20,22 G#DNA|19,23 G#DNA|24,29 G#cell_line
+
+BZLF 1 , transiently expressed in R7 - 57 reporter cells , was the only EBV trans - activator found , sufficient in inducing the viral lytic cycle .
+NN CD , RB VBN IN NN NN NN NN NNS , VBD DT JJ NN NN NN NN VBN , JJ NN VBG DT JJ JJ NN .
+0,2 G#protein|6,11 G#cell_line|15,19 G#protein
+
+Basing on these experiments , trans - cellular activation of EBV was tested by cocultivation of BZLF 1 - expressing R59Z activator cells with the R7 - 57 reporter line .
+VBG IN DT NNS , JJ JJ JJ NN IN NN VBD VBN IN NN IN NN JJ JJ JJ NN NN NNS IN DT NN NN NN NN NN .
+16,18 G#protein|16,23 G#cell_type|25,30 G#cell_line
+
+No lytic effect on the reporter cells could be measured , neither by cocultivation of activator cells nor by coincubation of BZLF 1 - containing cell lysates .
+DT JJ NN IN DT NN NNS MD VB VBN , CC IN NN IN NN NNS CC IN NN IN NN JJ JJ JJ NN NNS .
+15,17 G#cell_line|21,23 G#protein
+
+Latency breaking activity , however , was transferred from activator to reporter cells when active , exogenous virus was added .
+NN NN NN , RB , VBD VBN IN NN TO NN NNS WRB JJ , JJ NN VBD VBN .
+9,10 G#cell_line|11,13 G#cell_line
+
+The cell system described in these experiments provides a tool for the detection of EBV reactivation and demonstrates the potential of the lytic regulatory gene BZLF 1
+DT NN NN VBN IN DT NNS VBZ DT NN IN DT NN IN NN NN CC VBZ DT NN IN DT JJ JJ NN NN CD
+23,27 G#DNA
+
+Costimulation of cAMP and protein kinase C pathways inhibits the CD3 - dependent T cell activation and leads to a persistent expression of the AP - 1 transcription factor .
+NN IN NN CC NN NN NN NNS VBZ DT JJ JJ JJ NN NN NN CC VBZ TO DT JJ NN IN DT NN NN NN NN NN .
+4,7 G#protein|10,11 G#protein|24,27 G#protein|24,29 G#protein
+
+The effects mediated by a combined stimulation of cAMP - and protein kinase C ( PKC ) - dependent pathways have been investigated in different cellular systems , and it has been shown that they may complement each other in activating cell proliferation and differentiation .
+DT NNS VBN IN DT JJ NN IN NN NN CC NN NN NN ( NN ) JJ JJ NNS VBP VBN VBN IN JJ JJ NNS , CC PRP VBZ VBN VBN IN PRP MD VB DT JJ IN VBG NN NN CC NN .
+11,14 G#protein|15,16 G#protein
+
+In this report , we show that upon the stimulation of both pathways T lymphocytes became refractory to activation via the CD3 / T cell receptor ( TcR ) complex .
+IN DT NN , PRP VBP IN IN DT NN IN DT NNS NN NNS VBD JJ TO NN IN DT NN NN NN NN NN ( NN ) NN .
+13,15 G#cell_type|21,26 G#protein|27,28 G#protein
+
+T cells preincubated with phorbol 12 - myristate 13 - acetate ( PMA ) and dibutyryl cAMP ( Bt2cAMP ) displayed a deficient proliferative ability in response to anti - CD3 mAb stimulation , whereas lymphocytes treated individually with either Bt2cAMP or PMA responded comparably to untreated samples .
+NN NNS VBN IN NN NN NN NN NN NN NN ( NN ) CC NN NN ( NN ) VBD DT JJ JJ NN IN NN TO JJ JJ JJ NN NN , IN NNS VBN RB IN CC NN CC NN VBD RB TO JJ NNS .
+0,2 G#cell_type|28,32 G#protein|35,36 G#cell_type
+
+We detected an association between the reduced mitogenic response and low expression of both interleukin - 2 ( IL - 2 ) and the alpha chain ( CD25 ) of the IL - 2 receptor ( IL - 2R ) .
+PRP VBD DT NN IN DT VBN JJ NN CC JJ NN IN CC NN NN NN ( NN NN NN ) CC DT NN NN ( NN ) IN DT NN NN NN NN ( NN NN NN ) .
+14,17 G#protein|18,21 G#protein|24,26 G#protein|27,28 G#protein|31,35 G#protein|36,39 G#protein
+
+Analysis of intracellular Ca2 + mobilization suggested that the CD3 / TcR - dependent signal transduction was impaired in PMA / Bt2cAMP - treated cells .
+NN IN JJ NN NN NN VBD IN DT JJ JJ JJ JJ JJ NN NN VBD JJ IN JJ JJ JJ JJ JJ NNS .
+9,10 G#protein|11,12 G#protein|19,25 G#cell_line
+
+Remarkably , we observed that these samples displayed a persistent expression of the c - fos protooncogene , associated to an increased AP - 1 DNA - binding activity , whereas no variations of CREB or NF - kB were detected .
+RB , PRP VBD IN DT NNS VBD DT JJ NN IN DT NN NN NN NN , VBN TO DT VBN NN NN NN JJ JJ JJ NN , IN DT NNS IN NN CC NN NN NN VBD VBN .
+13,17 G#DNA|22,25 G#protein|34,35 G#protein|36,39 G#protein
+
+Neither Bt2cAMP nor PMA individually mediated these sustained effects , which therefore appear as a consequence of the interplay between both metabolic stimuli .
+CC NN CC NN RB VBD DT JJ NNS , WDT RB VBP IN DT NN IN DT NN IN DT JJ NNS .
+
+
+Altogether , the data provide the evidence that both pathways complement each other in regulating gene expression and , conversely , downregulate the TcR transduction mechanisms .
+RB , DT NNS VBP DT NN IN DT NNS VBP DT JJ IN VBG NN NN CC , RB , VBP DT NN NN NNS .
+23,24 G#protein
+
+The lymphotoxin promoter is stimulated by HTLV - I tax activation of NF - kappa B in human T - cell lines .
+DT NN NN VBZ VBN IN NN NN NN NN NN IN NN NN NN NN IN JJ NN NN NN NNS .
+1,3 G#DNA|6,10 G#protein|12,16 G#protein|17,22 G#cell_line
+
+The HTLV - I transcriptional activator tax was used to gain insight into the mechanism of lymphotoxin ( LT ; TNF - beta ) gene induction .
+DT NN NN NN JJ NN NN VBD VBN TO VB NN IN DT NN IN NN ( NN : NN NN NN ) NN NN .
+1,7 G#protein|16,17 G#protein|18,19 G#protein|20,23 G#protein|16,25 G#DNA
+
+Tax - expressing cell lines produce LT biologic activity .
+JJ JJ JJ NN NNS VBP NN JJ NN .
+0,5 G#cell_line|6,7 G#protein
+
+An LT promoter ( LT - 293 ) CAT construct that contained an NF - kappa B site was active in the LT - producing C81 - 66 - 45 cell line , which contains defective HTLV - I but expresses tax .
+DT NN NN ( NN NN NN ) NN NN WDT VBD DT NN NN NN NN NN VBD JJ IN DT JJ JJ JJ NN NN NN NN NN NN NN , WDT VBZ JJ NN NN NN CC VBZ NN .
+1,3 G#DNA|4,7 G#DNA|1,10 G#DNA|13,18 G#DNA|22,32 G#cell_line|41,42 G#protein
+
+The observation that a mutated LT - kappa B construct ( M1 - CAT ) was inactive in C81 - 66 - 45 , confirmed the importance of NF - kappa B in LT gene expression .
+DT NN IN DT VBN NN NN NN NN NN ( NN NN NN ) VBD JJ IN NN NN NN NN NN , VBD DT NN IN NN NN NN NN IN NN NN NN .
+4,10 G#DNA|11,14 G#DNA|18,23 G#cell_line|28,32 G#protein|33,34 G#protein
+
+Tax was transfected into HTLV - I - negative human T - cell lines .
+NN VBD VBN IN JJ JJ JJ JJ JJ JJ NN NN NN NNS .
+0,1 G#protein|4,14 G#cell_line
+
+Jurkat T cells stably expressing tax contained elevated levels of NF - kappa B that directly bound to the LT - kappa B site .
+NN NN NNS RB VBG NN VBD JJ NNS IN NN NN NN NN WDT RB VBD TO DT NN NN NN NN NN .
+0,3 G#cell_line|5,6 G#protein|10,14 G#protein|19,24 G#DNA
+
+Tax co - transfected with reporter constructs into Jurkat cells maximally activated HTLV - I - LTR - CAT and kappa B - fos - CAT and also activated LT - 293 to a lesser extent .
+NN VBN VBN VBN IN NN NNS IN NN NNS RB VBD NN NN NN NN NN NN NN CC NN NN NN NN NN NN CC RB VBD NN NN NN TO DT JJR NN .
+0,1 G#protein|5,7 G#DNA|8,10 G#cell_line|12,19 G#protein|20,26 G#protein|29,32 G#DNA
+
+In JM T cells , tax induced LT - 293 activity by two - to four - fold , though there was no induction of M1 - CAT .
+IN NN NN NNS , NN JJ NN NN NN NN IN CD CD TO JJ JJ JJ , IN EX VBD DT NN IN NN NN NN .
+1,4 G#cell_line|5,6 G#protein|7,10 G#DNA|25,28 G#protein
+
+The increase in LT - 293 CAT activity mirrored the increase in LT biologic activity seen under these conditions .
+DT NN IN NN NN NN NN NN VBD DT NN IN NN JJ NN VBN IN DT NNS .
+3,6 G#DNA|6,7 G#protein|12,13 G#protein
+
+These studies , the first to demonstrate induction of LT promoter activity over basal levels , indicate that HTLV - I tax causes low - level activation of both endogenous LT and the LT promoter , at least in part through activation of NF - kappa B .
+DT NNS , DT JJ TO VB NN IN NN NN NN IN JJ NNS , VBP IN NN NN NN NN VBZ JJ JJ JJ NN IN CC JJ NN CC DT NN NN , IN JJS IN NN IN NN IN NN NN NN NN .
+9,10 G#protein|9,11 G#DNA|18,22 G#protein|30,31 G#protein|33,35 G#DNA|43,47 G#protein
+
+A concatenated form of Epstein - Barr viral DNA in lymphoblastoid cell lines induced by transfection with BZLF1 .
+DT JJ NN IN JJ JJ JJ JJ NN IN JJ NN NNS VBN IN NN IN NN .
+4,9 G#DNA|10,13 G#cell_line|17,18 G#protein
+
+The replicative form of Epstein - Barr virus ( EBV ) DNA was studied using two lymphoblastoid cell lines , X50 - 7 and 6F11 , which are latently infected by Epstein - Barr virus .
+DT JJ NN IN JJ JJ JJ NN ( NN ) NN VBD VBN VBG CD JJ NN NNS , NN NN NN CC NN , WDT VBP RB VBN IN JJ JJ JJ NN .
+16,19 G#cell_line
+
+The lytic cycle of EBV infection was induced by transfection of the cells with the BRLF1 / BZLF1 coding region of the P3HR - 1 defective genome .
+DT JJ NN IN NN NN VBD VBN IN NN IN DT NNS IN DT NN NN NN NN NN IN DT NN NN NN JJ NN .
+15,20 G#DNA|22,27 G#DNA
+
+We combined two techniques to identify the productive replicative form of Epstein - Barr viral DNA in the lytic cycle - induced cells .
+PRP VBD CD NNS TO VB DT JJ JJ NN IN JJ JJ JJ JJ NN IN DT JJ JJ JJ JJ NNS .
+11,16 G#DNA|18,23 G#cell_line
+
+Restriction enzyme analysis followed by Southern blot hybridization identified a significant increase in the fused fragment encompassing both ends of EBV DNA .
+NN NN NN VBN IN NN NN NN VBD DT JJ NN IN DT VBN NN VBG DT NNS IN NN NN .
+20,22 G#DNA
+
+This indicates an increase in either episomal DNA or concatameric linear DNA .
+DT VBZ DT NN IN CC JJ NN CC JJ JJ NN .
+6,8 G#DNA|9,12 G#DNA
+
+Southern blot analysis of in situ lysing gels revealed that the cellular content of linear EBV DNA was also increased significantly after the initiation of the viral lytic cycle , while the amount of circular DNA remained approximately constant .
+NN NN NN IN FW FW VBG NNS VBD IN DT JJ NN IN JJ NN NN VBD RB VBN RB IN DT NN IN DT JJ JJ NN , IN DT NN IN JJ NN VBD RB JJ .
+15,17 G#DNA|14,17 G#DNA
+
+We propose from these results that the source of the fused fragment encompassing both ends of EBV DNA is a concatenated linear EBV DNA molecule , and that such a concatenated molecule most likely represents a replicative form of EBV DNA in productively infected cells .
+PRP VBP IN DT NNS IN DT NN IN DT VBN NN VBG DT NNS IN NN NN VBZ DT VBN JJ NN NN NN , CC IN PDT DT VBN NN RBS RB VBZ DT JJ NN IN NN NN IN RB JJ NNS .
+16,18 G#DNA|20,25 G#DNA|39,41 G#DNA
+
+Expression levels of the thyrotropin receptor gene in autoimmune thyroid disease : coregulation with parameters of thyroid function and inverse relation to major histocompatibility complex classes I and II .
+NN NNS IN DT NN NN NN IN JJ NN NN : NN IN NNS IN NN NN CC JJ NN TO JJ NN NN NNS CD CC CD .
+4,7 G#DNA|22,29 G#protein
+
+Using a human TSH receptor ( TSH - R ) cDNA probe , we investigated TSH - R transcript levels in 13 human thyroid fragments by Northern blot analysis ; 7 Graves ' disease , 2 Hashimoto 's disease , 3 endemic goiter , and 1 healthy thyroid gland were studied .
+VBG DT JJ NN NN ( NN NN NN ) NN NN , PRP VBD NN NN NN NN NNS IN CD JJ NN NNS IN NN NN NN : CD NN POS NN , CD NN POS NN , CD JJ NN , CC CD JJ NN NN VBD VBN .
+2,5 G#protein|6,9 G#protein|2,12 G#DNA|15,18 G#protein
+
+TSH - R expression levels were variable , but displayed a close correlation to the expression of thyroid peroxidase ( r = 0 . 703 ; P < 0 . 05 ) , thyroglobulin ( r = 0 . 817 ; P < 0 . 01 ) , and the nuclear oncogene c - fos ( r = 0 . 935 ; P < 0 . 001 ) , but not c - myc .
+NN NN NN NN NNS VBD JJ , CC VBD DT JJ NN TO DT NN IN NN NN ( NN JJ CD CD CD : NN JJR CD CD CD ) , NN ( NN JJ CD CD CD : NN JJR CD CD CD ) , CC DT JJ NN NN NN NN ( NN JJ CD CD CD : NN JJR CD CD CD ) , CC RB NN NN NN .
+0,3 G#protein|17,19 G#protein|33,34 G#protein|50,55 G#DNA|71,74 G#protein
+
+Overall , TSH - R transcript levels were low or absent in those thyroids in which expression of the major histocompatibility complex class I or II ( MHC I or II ) was high , thus establishing an inverse relation ( MHC I , r = - 0 . 791 ; P < 0 . 01 ; MHC II , r = - 0 . 784 ; P < 0 . 01 ) .
+RB , NN NN NN NN NNS VBD JJ CC JJ IN DT NNS IN WDT NN IN DT JJ NN NN NN CD CC CD ( NN CD CC CD ) VBD JJ , RB VBG DT JJ NN ( NN NN , NN JJ CD CD CD CD : NN JJR CD CD CD : NN CD , NN JJ NN NN NN NN : NN JJR CD CD CD ) .
+2,5 G#protein|19,26 G#protein|27,31 G#protein|41,43 G#protein|57,59 G#protein
+
+In situ hybridization showed that apart from lymphocytes , thyroid cells themselves were the source of MHC II transcripts .
+FW FW NN VBD IN RB IN NNS , NN NNS PRP VBD DT NN IN NN CD NNS .
+7,8 G#cell_type|9,11 G#cell_type|16,18 G#protein|16,19 G#protein
+
+gamma - Interferon expression was only detectable in 1 Hashimoto 's goiter .
+NN NN NN NN VBD RB JJ IN CD NN POS NN .
+0,3 G#protein
+
+Our findings suggest that next to lymphocyte infiltration , active regulatory events in the thyrocyte are responsible for the inverse relation between functional parameters ( TSH - R , thyroid peroxidase , thyroglobulin , and c - fos ) and immunological markers ( MHC I and II ) .
+PRP$ NNS VBP IN JJ TO NN NN , JJ JJ NNS IN DT NN VBP JJ IN DT JJ NN IN JJ NNS ( NN NN NN , NN NN , NN , CC NN NN NN ) CC JJ NNS ( NN CD CC CD ) .
+14,15 G#cell_type|25,28 G#protein|29,31 G#protein|32,33 G#protein|43,47 G#protein
+
+Functional antagonism between vitamin D3 and retinoic acid in the regulation of CD14 and CD23 expression during monocytic differentiation of U - 937 cells .
+JJ NN IN NN NN CC JJ NN IN DT NN IN NN CC NN NN IN JJ NN IN NN NN NN NNS .
+20,24 G#cell_line
+
+1 , 25 alpha - Dihydroxicholecalciferol ( VitD3 ) and retinoic acid ( RA ) are important regulators of the proliferation and differentiation of several cell types .
+CD CD CD NN NN NN ( NN ) CC JJ NN ( NN ) VBP JJ NNS IN DT NN CC NN IN JJ NN NNS .
+
+
+This paper describes how the expression of the monocyte - macrophage Ag , CD14 , and the low affinity Fc receptor for IgE , CD23 , were inversely regulated during VitD3 - and RA - induced monocytic differentiation of human U - 937 monoblasts .
+DT NN VBZ WRB DT NN IN DT JJ JJ JJ NN , NN , CC DT JJ NN NN NN IN NN , NN , VBD RB VBN IN NN NN CC JJ JJ JJ JJ NN IN JJ NN NN NN NNS .
+8,12 G#protein|13,14 G#protein|18,21 G#protein|22,23 G#protein|24,25 G#protein|39,44 G#cell_line
+
+PMA induced the expression of both CD14 and CD23 mRNA and protein .
+NN VBD DT NN IN CC NN CC NN NN CC NN .
+6,7 G#RNA|6,7 G#protein|8,10 G#RNA
+
+Exposure to VitD3 rapidly induced the de novo expression of CD14 mRNA and protein .
+NN TO NN RB VBD DT FW FW NN IN NN NN CC NN .
+10,12 G#RNA
+
+The addition of cycloheximide completely blocked the VitD3 induction of CD14 mRNA expression , indicating that the induction was dependent on ongoing protein synthesis .
+DT NN IN NN RB VBD DT NN NN IN NN NN NN , VBG IN DT NN VBD JJ IN JJ NN NN .
+10,12 G#RNA
+
+While inducing CD14 expression , VitD3 concomitantly suppressed the basal , PMA - , and RA - inducible CD23 expression in a dose - dependent manner .
+IN VBG NN NN , NN RB VBD DT JJ , NN NN , CC JJ JJ JJ NN NN IN DT JJ JJ JJ NN .
+2,3 G#protein|18,19 G#protein
+
+In contrast , U - 937 cells induced by RA strongly increased their expression of CD23 mRNA and protein , whereas they completely lacked detectable CD14 cell surface or mRNA expression .
+IN NN , NN NN NN NNS VBN IN NN RB VBD PRP$ NN IN NN NN CC NN , IN PRP RB VBD JJ NN NN NN CC NN NN .
+3,7 G#cell_line|15,16 G#protein|15,17 G#RNA
+
+Furthermore , the VitD3 - and the PMA - induced CD14 expression was inhibited as a temporal consequence of the RA - induced differentiation .
+RB , DT NN NN CC DT JJ JJ JJ NN NN VBD VBN IN DT JJ NN IN DT JJ JJ JJ NN .
+10,11 G#protein
+
+The results suggest that there exists a functional antagonism between VitD3 and RA that may have important implications for the regulation of certain immune and inflammatory responses through their inverse effects on CD14 and CD23 gene expression .
+DT NNS VBP IN EX VBZ DT JJ NN IN NN CC NN WDT MD VB JJ NNS IN DT NN IN JJ JJ CC JJ NNS IN PRP$ JJ NNS IN NN CC NN NN NN .
+
+
+Cell - specific bifunctional role of Jun oncogene family members on glucocorticoid receptor - dependent transcription .
+JJ JJ JJ JJ NN IN NN NN NN NNS IN NN JJ JJ JJ NN .
+6,10 G#DNA|11,13 G#protein
+
+Interaction between protein kinase C ( PKC ) - and glucocorticoid receptor ( GR ) - mediated signaling is suggested by the ability of the PKC activating phorbol ester 12 - O - tetradecanoylphorbol - 13 - acetate ( TPA ) to inhibit GR - dependent transcription of the mouse mammary tumor virus ( MMTV ) long terminal repeat ( LTR ) .
+NN IN NN NN NN ( NN ) : CC NN NN ( NN ) JJ JJ NN VBZ VBN IN DT NN IN DT NN NN NN NN NN NN NN NN NN NN NN NN NN ( NN ) TO VB JJ JJ JJ NN IN DT NN JJ NN NN ( NN ) JJ JJ NN ( NN ) .
+2,5 G#protein|6,7 G#protein|10,12 G#protein|13,14 G#protein|25,26 G#protein|43,44 G#protein|56,59 G#DNA|60,61 G#DNA
+
+Here we report that this interference is cell specific , as TPA augmented dexamethasone - induced transcriptional activation of the MMTV LTR in several T cell lines but was inhibitory in NIH - 3T3 fibroblasts .
+RB PRP VBP IN DT NN VBZ NN JJ , IN NN VBD JJ JJ JJ JJ NN IN DT NN NN IN JJ NN NN NNS CC VBD JJ IN NN NN NN NNS .
+20,22 G#DNA|24,27 G#cell_line|31,35 G#cell_line
+
+TPA - GR synergism was determined to have occurred at the GR - responsive element ( GRE ) level by functional analysis of deletion mutants or synthetic GRE oligonucleotides driving chloramphenicol acetyl - transferase expression .
+NN NN NN NN VBD VBN TO VB VBN IN DT JJ JJ JJ NN ( NN ) NN IN JJ NN IN NN NNS CC JJ NN NNS VBG NN NN NN NN NN .
+11,12 G#protein|11,15 G#DNA|16,17 G#DNA|23,25 G#DNA|27,28 G#DNA|26,29 G#DNA|30,34 G#protein
+
+Synergism required an intact GR DNA - binding domain , whereas amino - or carboxyl - terminal domains were dispensable .
+NN VBD DT JJ NN JJ JJ JJ NN , IN NN NN CC JJ JJ JJ NNS VBD JJ .
+4,9 G#protein|11,18 G#protein
+
+The effect was abrogated by the PKC inhibitor staurosporine , suggesting a role for PKC .
+DT NN VBD VBN IN DT NN NN NN , VBG DT NN IN NN .
+6,7 G#protein|14,15 G#protein
+
+Increased c - jun , jun - B , and jun - D expression above basal levels and increased transcriptional activity of AP - 1 / TPA responsive elements fused to chloramphenicol acetyl - transferase vectors were observed in T cells treated with TPA alone or in combination with dexamethasone .
+VBN NN NN NN , NN NN NN , CC NN NN NN NN IN JJ NNS CC VBN JJ NN IN NN NN NN NN NN JJ NNS VBN TO NN NN NN NN NNS VBD VBN IN NN NNS VBN IN NN RB CC IN NN IN NN .
+1,4 G#protein|5,8 G#protein|10,13 G#protein|22,29 G#DNA|31,35 G#protein|31,36 G#DNA|39,41 G#cell_type
+
+The ability of Jun proteins to cooperate with GR in T cells has been investigated after transfection of c - jun , jun - B , or jun - D expression vectors , which augmented GR - dependent transcription from either MMTV LTR or GRE .
+DT NN IN NN NNS TO VB IN NN IN NN NNS VBZ VBN VBN IN NN IN NN NN NN , NN NN NN , CC NN NN NN NN NNS , WDT VBD JJ JJ JJ NN IN CC NN NN CC NN .
+3,5 G#protein|8,9 G#protein|10,12 G#cell_type|18,32 G#DNA|35,36 G#protein|41,43 G#DNA|44,45 G#DNA
+
+Conversely , c - jun and jun - B transfection blunted GR - dependent transcription in HeLa cells .
+RB , NN NN NN CC NN NN NN NN VBD JJ JJ JJ NN IN NN NNS .
+2,5 G#protein|6,9 G#protein|11,12 G#protein|16,18 G#cell_line
+
+The presence of c - fos had a negative influence on GR function and correlated with the cell - specific synergistic or antagonistic activity of Jun with respect to GR ; high basal expression of c - fos as well as AP - 1 DNA binding and transcriptional activity were observed in HeLa cells , but not in T cells .
+DT NN IN NN NN NN VBD DT JJ NN IN NN NN CC VBD IN DT JJ JJ JJ JJ CC JJ NN IN NN IN NN TO NN : JJ JJ NN IN NN NN NN RB RB IN NN NN NN NN NN CC JJ NN VBD VBN IN NN NNS , CC RB IN NN NNS .
+3,6 G#protein|11,12 G#protein|25,26 G#protein|29,30 G#protein|35,38 G#protein|41,44 G#protein|52,54 G#cell_line|58,60 G#cell_type
+
+Furthermore overexpression of exogenous c - fos has an inhibitory effect on GR - dependent transcription from GRE in T cells .
+RB NN IN JJ NN NN NN VBZ DT JJ NN IN JJ JJ JJ NN IN NN IN NN NNS .
+4,7 G#protein|3,7 G#protein|12,13 G#protein|17,18 G#DNA|19,21 G#cell_type
+
+We propose that Jun plays a bifunctional role on GR - dependent transcriptional activation of GRE , selecting either synergistic or antagonistic activity depending on the cell - specific microenvironment .
+PRP VBP IN NN VBZ DT JJ NN IN JJ JJ JJ JJ NN IN NN , VBG CC JJ CC JJ NN VBG IN DT JJ JJ JJ NN .
+3,4 G#protein|9,10 G#protein|15,16 G#DNA
+
+In this regard , intracellular levels of c - fos appear to be influential .
+IN DT NN , JJ NNS IN NN NN NN VBP TO VB JJ .
+7,10 G#protein
+
+Cell type - and stage - specific expression of the CD20 / B1 antigen correlates with the activity of a diverged octamer DNA motif present in its promoter .
+NN NN NN CC JJ JJ JJ NN IN DT NN NN NN NN VBZ IN DT NN IN DT JJ NN NN NN JJ IN PRP$ NN .
+10,14 G#protein|21,24 G#DNA|27,28 G#DNA
+
+The CD20 ( B1 ) gene encodes a B cell - specific protein involved in the regulation of human B cell proliferation and differentiation .
+DT NN ( NN ) NN VBZ DT NN JJ JJ JJ NN VBN IN DT NN IN JJ NN NN NN CC NN .
+1,6 G#DNA|8,13 G#protein
+
+Studies with 5' deletion CD20 promoter - CAT constructs have previously revealed two regions of the promoter between bases - 186 and - 280 and between bases - 280 and - 454 which contained positive regulatory elements .
+NNS IN JJ NN NN NN NN NN NNS VBP RB VBN CD NNS IN DT NN IN NNS CD CD CC CD CD CC IN NNS CD CD CC CD CD WDT VBD JJ JJ NNS .
+2,9 G#DNA|16,17 G#DNA|34,37 G#DNA
+
+In this study we identified a sequence element present in the most proximal region located between bases - 214 and - 201 , TTCTTCTAATTAA , which is important in the high constitutive expression of CD20 in mature B cells and the induction of CD20 in pre - B cells .
+IN DT NN PRP VBD DT NN NN JJ IN DT RBS JJ NN JJ IN NNS CD CD CC CD CD , NN , WDT VBZ JJ IN DT JJ JJ NN IN NN IN JJ NN NNS CC DT NN IN NN IN JJ JJ JJ NNS .
+6,8 G#DNA|34,35 G#protein|43,44 G#protein|45,49 G#cell_type
+
+This sequence element was referred to as the BAT box and its deletion significantly reduced the activity of a CD20 promoter - CAT construct in B cells .
+DT NN NN VBD VBN TO IN DT NN NN CC PRP$ NN RB VBD DT NN IN DT NN JJ JJ JJ NN IN NN NNS .
+1,3 G#DNA|8,10 G#DNA
+
+Mobility shift assays with various mutant probes and B cell nuclear extracts demonstrated that the core sequence TAAT was essential for binding to this site .
+NN NN NNS IN JJ JJ NNS CC NN NN JJ NNS VBD IN DT NN NN NN VBD JJ IN VBG TO DT NN .
+
+
+Cross competition experiments with an octamer sequence from the Ig heavy chain promoter , the BAT box , and a TA - rich sequence present in the CD21 promoter revealed that all three sequences bound the same nuclear proteins suggesting that the BAT box binding proteins were Oct - 1 and Oct - 2 .
+NN NN NNS IN DT NN NN IN DT NN JJ NN NN , DT NN NN , CC DT JJ JJ JJ NN JJ IN DT NN NN VBD IN DT CD NNS VBD DT JJ JJ NNS VBG IN DT NN NN NN NNS VBD NN NN NN CC NN NN NN .
+15,17 G#DNA|20,24 G#DNA|27,29 G#DNA|37,39 G#protein|42,46 G#protein|47,50 G#protein|51,54 G#protein
+
+Southwestern blotting and UV cross - linking studies confirmed that the BAT box binding proteins were Oct - 1 and Oct - 2 .
+NN NN CC NN NN NN NN NNS VBD IN DT NN NN NN NNS VBD NN NN NN CC NN NN NN .
+11,15 G#protein|16,19 G#protein|20,23 G#protein
+
+The affinity of the BAT box binding proteins for the BAT box was approximately 25 - fold less than for the octamer sequence and the BAT box binding proteins dissociated from the BAT box 10 - fold more rapidly than from the octamer sequence .
+DT NN IN DT NN NN NN NNS IN DT NN NN VBD RB RB RB RB JJR IN IN DT NN NN CC DT NN NN NN NNS VBD IN DT NN NN RB RB RB RBR RB IN IN DT NN NN .
+4,8 G#protein|10,12 G#DNA|21,23 G#DNA|25,29 G#protein|32,34 G#DNA|42,44 G#DNA
+
+Despite this lower affinity , a trimer of the BAT box sequence was as efficiently transactivated by an Oct - 2 expression vector as was a trimer of the octamer sequence in HeLa cells .
+IN DT JJR NN , DT NN IN DT NN NN NN VBD IN RB VBN IN DT NN NN NN NN NN IN VBD DT NN IN DT NN NN IN NN NNS .
+9,11 G#DNA|9,12 G#DNA|18,21 G#protein|18,23 G#DNA|29,31 G#DNA|32,34 G#cell_line
+
+The BAT box and Oct - 2 were also implicated in the induction of CD20 in the pre - B cell line , PB - 697 , via phorbol esters .
+DT NN NN CC NN NN NN VBD RB VBN IN DT NN IN NN IN DT JJ JJ JJ NN NN , NN NN NN , IN NN NNS .
+1,3 G#DNA|4,7 G#protein|14,15 G#protein|17,22 G#cell_line|23,26 G#cell_line
+
+The induction of CD20 mRNA was temporally associated with induction of Oct - 2 mRNA and a BAT box - deleted CD20 - CAT construct , in contrast to the wild type , was poorly induced by phorbol esters .
+DT NN IN NN NN VBD RB VBN IN NN IN NN NN NN NN CC DT NN JJ JJ JJ NN NN NN NN , IN NN TO DT JJ NN , VBD RB VBN IN NN NNS .
+3,5 G#RNA|11,15 G#RNA|17,25 G#DNA
+
+Together these results suggest that the BAT box binding proteins are important in the B cell specific expression of CD20 and perhaps CD21 .
+RB DT NNS VBP IN DT NN NN NN NNS VBP JJ IN DT NN NN JJ NN IN NN CC RB NN .
+6,10 G#protein|19,20 G#protein|22,23 G#protein
+
+Human CD4 lymphocytes specifically recognize a peptide representing the fusion region of the hybrid protein pml / RAR alpha present in acute promyelocytic leukemia cells .
+JJ NN NNS RB VBP DT NN VBG DT NN NN IN DT NN NN NN NN NN NN JJ IN JJ JJ NN NNS .
+0,3 G#cell_type|13,15 G#protein|15,19 G#protein|21,25 G#cell_type
+
+Fusion proteins present in leukemic cells frequently contain a new amino acid at the fusion point .
+NN NNS JJ IN JJ NNS RB VBP DT JJ NN NN IN DT NN NN .
+0,2 G#protein|4,6 G#cell_type|14,16 G#protein
+
+We tested whether a peptide ( BCR1 / 25 ) encompassing the fusion region of the hybrid molecule pml / RAR alpha , which is selectively expressed by acute promyelocytic leukemia ( APL ) cells , can be recognized by human T lymphocytes in vitro .
+PRP VBD IN DT NN ( NN NN NN ) VBG DT NN NN IN DT NN NN NN NN NN NN , WDT VBZ RB VBN IN JJ JJ NN ( NN ) NNS , MD VB VBN IN JJ NN NNS FW FW .
+12,14 G#protein|18,22 G#protein|28,35 G#cell_type|41,43 G#cell_type|40,43 G#cell_type
+
+CD4 + lymphocytes , at both polyclonal and clonal level , recognized peptide BCR1 / 25 in an HLA - DR - - restricted fashion on presentation by autologous antigen - presenting cell ( APC ) or by APC expressing the HLA - DR11 restricting molecule .
+JJ JJ NNS , IN CC JJ CC JJ NN , VBD NN NN NN NN IN DT NN NN NN : : JJ NN IN NN IN JJ JJ JJ JJ NN ( NN ) CC IN NN VBG DT NN NN NN NN NN .
+0,3 G#cell_type|18,21 G#protein|28,33 G#cell_type|34,35 G#cell_type|38,39 G#cell_type|41,46 G#protein
+
+Control peptides corresponding to the normal pml and RAR alpha proteins were not recognized .
+NN NNS VBG TO DT JJ NN CC NN NN NNS VBD RB VBN .
+6,7 G#protein|8,11 G#protein
+
+One clone ( DEG5 ) also exerted a high and specific cytotoxicity against autologous cells pulsed with BCR1 / 25 .
+CD NN ( NN ) RB VBD DT JJ CC JJ NN IN JJ NNS VBN IN NN NN NN .
+3,4 G#cell_line|13,15 G#cell_line
+
+The autologous DE LCL containing a transduced pml / RAR alpha fusion gene and expressing a bcr1 type of the pml / RAR alpha hybrid protein induced the proliferation of DE anti - BCR1 / 25 T cell clones .
+DT JJ NN NN VBG DT VBN NN NN NN NN NN NN CC VBG DT NN NN IN DT NN NN NN NN NN NN VBD DT NN IN NN CD CD CD CD CD NN NN NNS .
+1,4 G#cell_line|7,11 G#protein|7,13 G#DNA|16,18 G#protein|20,24 G#protein|30,39 G#cell_line
+
+It is concluded that the bcr1 type - pml / RAR alpha fusion protein of APL contains an antigenic site , absent from the normal parent molecules and recognized by human CD4 + lymphocytes .
+PRP VBZ VBN IN DT NN NN NN NN NN NN NN NN NN IN NN VBZ DT JJ NN , JJ IN DT JJ NN NNS CC VBN IN JJ JJ JJ NNS .
+5,14 G#protein|15,16 G#cell_line|30,34 G#cell_line
+
+The zinc finger transcription factor Egr - 1 is essential for and restricts differentiation along the macrophage lineage .
+DT NN NN NN NN NN NN NN VBZ JJ IN CC VBZ NN IN DT NN NN .
+1,3 G#protein|1,5 G#protein|5,8 G#protein|16,18 G#cell_type
+
+We have isolated cDNA clones of myeloid differentiation primary response ( MyD ) genes , activated in the absence of de novo protein synthesis following induction for differentiation along either the macrophage or granulocyte lineage in human myeloblastic leukemia HL - 60 cells .
+PRP VBP VBN NN NNS IN JJ NN JJ NN ( NN ) NNS , VBN IN DT NN IN FW FW NN NN VBG NN IN NN IN CC DT NN CC NN NN IN JJ JJ NN NN NN NN NNS .
+3,5 G#DNA|6,14 G#DNA|31,32 G#cell_type|33,35 G#cell_type|37,43 G#cell_line
+
+One cDNA clone of a primary response gene , expressed upon macrophage differentiation , encoded for Egr - 1 , a zinc finger transcription factor .
+CD NN NN IN DT JJ NN NN , VBN IN NN NN , VBD IN NN NN NN , DT NN NN NN NN .
+1,3 G#DNA|16,19 G#protein|21,25 G#protein
+
+

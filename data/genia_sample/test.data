@@ -1,0 +1,222 @@
+Two cDNA clones were sequenced and provided 2 , 250 nucleotides ( nt ) of DNA sequence information .
+CD NN NNS VBD VBN CC VBN CD CD CD NNS ( NN ) IN NN NN NN .
+1,3 G#DNA|15,17 G#DNA
+
+There is a single methionine codon - initiated open reading frame of 1 , 458 nt in frame with a homeobox and a CAX repeat , and the open reading frame is predicted to encode a protein of 51 , 659 daltons .
+EX VBZ DT JJ NN JJ JJ JJ JJ NN NN IN CD CD CD NN IN NN IN DT NN CC DT NN NN , CC DT JJ NN NN VBZ VBN TO VB DT NN IN CD CD CD NNS .
+4,11 G#DNA|20,21 G#DNA|23,25 G#DNA|28,31 G#DNA
+
+When the homeodomain from HB24 was compared to known mammalian and Drosophila homeodomains it was found to be only moderately conserved , but when it was compared to a highly diverged Drosophila homeodomain , H2 . 0 , it was found to be 80 % identical .
+WRB DT NN IN NN VBD VBN TO JJ JJ CC NN NNS PRP VBD VBN TO VB RB RB VBN , CC WRB PRP VBD VBN TO DT RB JJ FW NN , NN NN NN , PRP VBD VBN TO VB CD NN JJ .
+2,3 G#DNA|4,5 G#DNA|9,13 G#DNA|32,33 G#DNA|31,33 G#DNA
+
+The HB24 mRNA was absent or present at low levels in normal B and T lymphocytes ; however , with the appropriate activation signal HB24 mRNA was induced within several hours even in the presence of cycloheximide .
+DT NN NN VBD JJ CC JJ IN JJ NNS IN JJ NN CC NN NNS : RB , IN DT JJ NN NN NN NN VBD VBN IN JJ NNS RB IN DT NN IN NN .
+1,3 G#RNA|14,16 G#cell_type|24,26 G#RNA
+
+Characterization of HB24 expression in lymphoid and select developing tissues was performed by in situ hybridization .
+NN IN NN NN IN JJ CC JJ VBG NNS VBD VBN IN FW FW NN .
+2,3 G#DNA
+
+Positive hybridization was found in thymus , tonsil , bone marrow , developing vessels , and in fetal brain .
+JJ NN VBD VBN IN NN , NN , NN NN , VBG NNS , CC IN JJ NN .
+
+
+HB24 is likely to have an important role in lymphocytes as well as in certain developing tissues .
+NN VBZ JJ TO VB DT JJ NN IN NNS RB RB IN IN JJ VBG NNS .
+0,1 G#DNA|9,10 G#cell_type
+
+Platelet - activating factor induces phospholipid turnover , calcium flux , arachidonic acid liberation , eicosanoid generation , and oncogene expression in a human B cell line .
+JJ JJ JJ NN VBZ JJ NN , NN NN , JJ NN NN , NN NN , CC JJ NN IN DT JJ NN NN NN .
+0,4 G#protein|19,20 G#DNA|23,27 G#cell_line
+
+Platelet - activating factor is a potent mediator of the inflammatory response .
+JJ JJ JJ NN VBZ DT JJ NN IN DT JJ NN .
+0,4 G#protein
+
+Studies of the actions of platelet - activating factor have centered mainly around neutrophils , monocytes , and platelets .
+NNS IN DT NNS IN JJ JJ JJ NN VBP VBN RB IN NNS , NNS , CC NNS .
+5,9 G#protein|13,14 G#cell_type|15,16 G#cell_type|18,19 G#cell_type
+
+In this report we begin to uncover the influence of platelet - activating factor on B lymphocytes .
+IN DT NN PRP VBP TO VB DT NN IN NN NN NN NN IN NN NNS .
+10,14 G#protein|15,17 G#cell_type
+
+Employing the EBV - transformed human B cell line SKW6 . 4 , we demonstrate that platelet - activating factor significantly alters membrane phospholipid metabolism indicated by the incorporation of 32P into phosphatidylcholine , phosphatidylinositol , and phosphatidic acid but not significantly into phosphatidylethanolamine at concentrations ranging from 10 ( - 9 ) to 10 ( - 6 ) M .
+VBG DT JJ JJ JJ JJ NN NN NN NN NN NN , PRP VBP IN JJ JJ JJ NN RB VBZ NN JJ NN VBN IN DT NN IN NN IN NN , NN , CC JJ NN CC RB RB IN NN IN NNS VBG IN CD ( CD CD ) TO CD ( CD CD ) NN .
+5,9 G#cell_line|2,9 G#cell_line|9,12 G#cell_line|16,20 G#protein
+
+The inactive precursor , lyso - platelet - activating factor , at a concentration as high as 10 ( - 7 ) M had no effect on any of the membrane phospholipids .
+DT JJ NN , JJ JJ JJ JJ JJ NN , IN DT NN RB JJ IN CD ( CD CD ) NN VBD DT NN IN DT IN DT NN NNS .
+4,10 G#protein
+
+We also show that platelet - activating factor from 10 ( - 12 ) to 10 ( - 6 ) M induced rapid and significant elevation in intracellular calcium levels , whereas lyso - platelet - activating factor was again ineffective .
+PRP RB VBP IN JJ JJ JJ NN IN CD ( CD CD ) TO CD ( CD CD ) NN VBD JJ CC JJ NN IN JJ NN NNS , IN JJ JJ JJ JJ JJ NN VBD RB JJ .
+4,8 G#protein|34,38 G#protein
+
+We further demonstrate the impact of platelet - activating factor binding to B cells by measuring platelet - activating factor induced arachidonic acid release and 5 - hydroxyeicosatetraenoic acid production .
+PRP RB VBP DT NN IN JJ JJ JJ NN VBG TO NN NNS IN VBG JJ JJ JJ NN JJ JJ NN NN CC JJ JJ JJ NN NN .
+6,10 G#protein|12,14 G#cell_type|16,20 G#protein
+
+Moreover , platelet - activating factor was capable of inducing transcription of the nuclear proto - oncogenes c - fos and c - jun .
+RB , JJ JJ JJ NN VBD JJ IN VBG NN IN DT JJ NNS NNS NNS NN NN NN CC NN NN NN .
+2,6 G#protein|13,17 G#DNA|17,20 G#DNA|21,24 G#DNA
+
+Finally we explored the possible role of 5 - hydroxyeicosatetraenoic acid as a regulator of arachidonic acid liberation demonstrating that endogenous 5 - lipoxygenase activity modulates platelet - activating factor induced arachidonic acid release perhaps acting at the level of phospholipase A2 .
+RB PRP VBD DT JJ NN IN JJ JJ JJ NN IN DT NN IN JJ NN NN VBG IN JJ NN NN NN NN VBZ JJ JJ JJ NN JJ JJ NN NN RB VBG IN DT NN IN NN NN .
+21,24 G#protein|26,30 G#protein|40,42 G#protein
+
+In summary , platelet - activating factor is shown here to have a direct and profound effect on a pure B cell line .
+IN NN , JJ JJ JJ NN VBZ VBN RB TO VB DT JJ CC JJ NN IN DT JJ NN NN NN .
+3,7 G#protein|19,23 G#cell_line
+
+Positive and negative regulation of immunoglobulin gene expression by a novel B - cell - specific enhancer element .
+JJ CC JJ NN IN NN NN NN IN DT JJ JJ JJ JJ JJ JJ NN NN .
+5,7 G#DNA|11,18 G#DNA
+
+A new B - cell - specific enhancer element has been identified 3' of E4 and the octamerlike motifs in the human immunoglobulin heavy - chain gene enhancer .
+DT JJ JJ JJ JJ JJ JJ NN NN VBZ VBN VBN JJ IN NN CC DT JJ NNS IN DT JJ NN NN NN NN NN NN .
+2,9 G#DNA|14,19 G#DNA|21,26 G#protein|21,28 G#DNA
+
+Tandem copies of this 67 - bp MnlI - AluI fragment , when fused to the chloramphenicol acetyltransferase gene driven by the conalbumin promoter , stimulated transcription in B cells but not in Jurkat T cells or HeLa cells .
+JJ NNS IN DT JJ JJ JJ NN NN NN NN , WRB VBN TO DT JJ NN NN VBN IN DT JJ NN , VBD NN IN NN NNS CC RB IN NN NN NNS CC NN NNS .
+4,11 G#DNA|16,19 G#DNA|22,24 G#DNA|28,30 G#cell_type|33,36 G#cell_line|37,39 G#cell_line
+
+Footprinting analysis revealed that the identical sequence CCGAAACTGAAAAGG , designated E6 , was protected by nuclear extracts from B cells , T cells , or HeLa cells .
+NN NN VBD IN DT JJ NN NN , VBN NN , VBD VBN IN JJ NNS IN NN NNS , NN NNS , CC NN NNS .
+10,11 G#DNA|18,20 G#cell_type|21,23 G#cell_type
+
+Gel mobility shift assays using a synthetic E6 motif detected a B - cell - specific complex in addition to a ubiquitous band found also in T cells and HeLa cells .
+NN NN NN NNS VBG DT JJ NN NN VBD DT JJ JJ JJ JJ JJ NN IN NN TO DT JJ NN VBN RB IN NN NNS CC NN NNS .
+6,9 G#DNA|11,17 G#protein|26,28 G#cell_type|29,31 G#cell_line
+
+In agreement with the results of gel retardation assays , tandem copies of the E6 motif stimulated transcription in ARH77 and Raji cells but not in Jurkat or HeLa cells .
+IN NN IN DT NNS IN NN NN NNS , JJ NNS IN DT NN NN VBD NN IN NN CC NN NNS CC RB IN NN CC NN NNS .
+14,16 G#DNA|19,20 G#cell_line|21,23 G#cell_line|26,27 G#cell_line|28,30 G#cell_line
+
+Furthermore , a mutant E6 motif lost both in vitro binding activity and in vivo enhancer activity .
+RB , DT JJ NN NN VBD CC FW FW NN NN CC FW FW NN NN .
+3,6 G#DNA
+
+In striking contrast to the mouse Ig heavy - chain enhancer , in which the octamer motif acts as a B - cell - specific enhancer element , the human enhancer contains an octamerlike sequence with one base substitution which bound octamer - binding proteins with only very low affinity and showed no enhancer activity of its own .
+IN JJ NN TO DT NN NN JJ JJ JJ NN , IN WDT DT NN NN VBZ IN DT JJ JJ JJ JJ JJ NN NN , DT JJ NN VBZ DT JJ NN IN CD NN NN WDT VBD JJ JJ JJ NNS IN RB RB JJ NN CC VBD DT NN NN IN PRP$ JJ .
+5,11 G#DNA|15,17 G#DNA|20,27 G#DNA|29,31 G#DNA|33,35 G#DNA|41,45 G#protein
+
+Interestingly , the MnlI - AluI fragment could suppress the basal - level activity of the conalbumin promoter in both Jurkat and HeLa cells .
+RB , DT NN NN NN NN MD VB DT JJ JJ JJ NN IN DT JJ NN IN CC NN CC NN NNS .
+3,7 G#DNA|16,18 G#DNA|20,21 G#cell_line|22,24 G#cell_line
+
+Moreover , simian virus 40 enhancer activity was blocked by the MnlI - AluI fragment in HeLa cells but not in B cells .
+RB , JJ NN CD NN NN VBD VBN IN DT NN NN NN NN IN NN NNS CC RB IN NN NNS .
+11,15 G#DNA|16,18 G#cell_line|21,23 G#cell_type
+
+Thus , the novel enhancer element identified in this study is probably a target site for both positive and negative factors .
+RB , DT JJ NN NN VBN IN DT NN VBZ RB DT NN NN IN CC JJ CC JJ NNS .
+17,18 G#protein|19,21 G#protein|17,21 G#protein
+
+Charybdotoxin - sensitive , Ca(2 + ) - dependent membrane potential changes are not involved in human T or B cell activation and proliferation .
+JJ JJ JJ , JJ JJ JJ JJ JJ NN JJ NNS VBP RB VBN IN JJ NN CC NN NN NN CC NN .
+17,21 G#cell_type
+
+The involvement of ion channels in B and T lymphocyte activation is supported by many reports of changes in ion fluxes and membrane potential after mitogen binding .
+DT NN IN NN NNS IN NN CC NN NN NN VBZ VBN IN JJ NNS IN NNS IN NN NNS CC NN NN IN NN NN .
+3,5 G#protein|25,26 G#protein
+
+Human T and B lymphocytes demonstrate an early and transient hyperpolarization after ligand binding .
+JJ NN CC NN NNS VBP DT JJ CC JJ NN IN JJ NN .
+0,5 G#cell_type
+
+Inasmuch as the change in membrane potential is dependent on elevation of free cytosolic calcium , the hyperpolarization is presumably through opening of Ca(2 + ) - stimulated K + channels .
+RB IN DT NN IN NN NN VBZ JJ IN NN IN JJ JJ NN , DT NN VBZ RB IN NN IN JJ JJ JJ JJ JJ NN NN NNS .
+
+
+We have used charybdotoxin , a known inhibitor of Ca(2 + ) - dependent K + channels , to study the role of these channels in lymphocyte activation and mitogenesis .
+PRP VBP VBN NN , DT JJ NN IN JJ JJ JJ JJ JJ NN NN NNS , TO VB DT NN IN DT NNS IN NN NN CC NN .
+9,17 G#protein
+
+We demonstrate that charybdotoxin inhibits the ligand - induced transient membrane hyperpolarization in B and T cells in a dose - dependent fashion , without affecting changes in cytosolic Ca2 + .
+PRP VBP IN NN VBZ DT JJ JJ JJ JJ NN NN IN NN CC NN NNS IN DT JJ JJ JJ NN , IN VBG NNS IN JJ NN NN .
+13,17 G#cell_type
+
+However , blockade of the Ca(2 + ) - activated K + channel is not associated with changes in cell - cycle gene activation , IL - 2 production , IL - 2R expression or B and T cell mitogenesis .
+RB , NN IN DT JJ JJ JJ JJ JJ NN NN NN VBZ RB VBN IN NNS IN JJ JJ JJ NN NN , NN NN NN NN , NN NN NN NN CC NN CC NN NN NN .
+5,13 G#protein|25,28 G#protein|30,33 G#protein
+
+These results imply that membrane potential changes secondary to the ligand - dependent opening of Ca(2 + ) - activated K + channels are not involved in B and T lymphocyte activation and mitogenesis .
+DT NNS VBP IN NN JJ NNS JJ TO DT JJ JJ JJ NN IN JJ JJ JJ JJ JJ NN NN NNS VBP RB VBN IN NN CC NN NN NN CC NN .
+15,23 G#protein|27,31 G#cell_type
+
+Activity of the kappa B enhancer of the interleukin - 2 receptor alpha chain in somatic cell hybrids is accompanied by the nuclear localization of NF - kappa B .
+NN IN DT NN NN NN IN DT NN NN NN NN NN NN IN JJ NN NNS VBZ VBN IN DT JJ NN IN NN NN NN NN .
+3,6 G#DNA|8,14 G#protein|15,18 G#cell_line|25,29 G#protein
+
+The two nuclear proteins NF - kappa B ( consisting of subunits p50 an dp65 ) and the DNA - binding subunit of NF - kappa B ( p50 ) by itself , also called KBF1 , are constitutively expressed and localized in the nucleus of the human T - cell line IARC 301 . 5 .
+DT CD JJ NNS NN NN NN NN ( VBG IN NNS NN DT NN ) CC DT JJ JJ JJ NN IN NN NN NN NN ( NN ) IN PRP , RB VBN NN , VBP RB VBN CC JJ IN DT NN IN DT JJ NN NN NN NN NN CD CD CD .
+1,4 G#protein|4,8 G#protein|12,13 G#protein|14,15 G#protein|18,22 G#protein|23,27 G#protein|28,29 G#protein|35,36 G#protein|47,52 G#cell_line|52,56 G#cell_line
+
+In order to define the roles of these two factors , which bind to the same kappa B enhancers , in transcription activation we have prepared somatic cell hybrids between IARC 301 . 5 and a murine myeloma .
+IN NN TO VB DT NNS IN DT CD NNS , WDT VBP TO DT JJ NN NN NNS , IN NN NN PRP VBP VBN JJ NN NNS IN NN CD CD CD CC DT JJ NN .
+9,10 G#protein|16,19 G#DNA|30,34 G#cell_line|36,38 G#cell_line
+
+Most hybrids express both KBF1 and NF - kappa B in their nuclei , but one hybrid expresses only KBF1 .
+JJS NNS VBP CC NN CC NN NN NN NN IN PRP$ NNS , CC CD NN VBZ RB NN .
+4,5 G#protein|6,10 G#protein|19,20 G#protein
+
+The kappa B enhancer of the gene encoding the interleukin - 2 ( IL - 2 ) receptor alpha chain ( IL - 2R alpha ) is functional only in the hybrids expressing nuclear NF - kappa B .
+DT NN NN NN IN DT NN VBG DT NN NN NN ( NN NN NN ) NN NN NN ( NN NN NN NN ) VBZ JJ RB IN DT NNS VBG JJ NN NN NN NN .
+1,4 G#DNA|9,12 G#protein|13,16 G#protein|9,20 G#protein|21,25 G#protein|31,32 G#cell_line|34,38 G#protein|33,38 G#protein
+
+These findings show that nuclear NF - kappa B is necessary to activate the kappa B enhancer , while KBF1 by itself is not sufficient .
+DT NNS VBP IN JJ NN NN NN NN VBZ JJ TO VB DT NN NN NN , IN NN IN PRP VBZ RB JJ .
+5,9 G#protein|4,9 G#protein|14,17 G#DNA|19,20 G#protein
+
+We propose that KBF1 is a competitive inhibitor of NF - kappa B and discuss how these factors may be involved in the transient expression of IL - 2 and IL - 2 alpha genes during the immune response .
+PRP VBP IN NN VBZ DT JJ NN IN NN NN NN NN CC VB WRB DT NNS MD VB VBN IN DT JJ NN IN NN NN NN CC NN NN NN NN NNS IN DT JJ NN .
+3,4 G#protein|9,13 G#protein|26,29 G#protein|30,34 G#protein
+
+T - helper - cell determinants in protein antigens are preferentially located in cysteine - rich antigen segments resistant to proteolytic cleavage by cathepsin B , L , and D .
+JJ JJ JJ JJ JJ NNS IN NN NNS VBP RB JJ IN JJ JJ JJ NN NNS JJ TO JJ NN IN NN NN , NN , CC NN .
+0,6 G#protein|7,9 G#protein|13,18 G#protein|23,30 G#protein
+
+We report on a computer algorithm capable of predicting the location of T - helper - cell epitopes in protein antigen ( Ag ) by analysing the Ag amino acid sequence .
+PRP VBP IN DT NN NN JJ IN VBG DT NN IN NN NN NN NN NN NNS IN NN NN ( NN ) IN VBG DT NN NN NN NN .
+12,18 G#protein|19,21 G#protein|22,23 G#protein|27,28 G#protein|28,31 G#protein
+
+The algorithm was constructed with the aim of identifying segments in Ag which are resistant to proteolytic degradation by the enzymes cathepsin B , L , and D .
+DT NN VBD VBN IN DT NN IN VBG NNS IN NN WDT VBP JJ TO JJ NN IN DT NNS NN NN , NN , CC NN .
+11,12 G#protein|21,28 G#protein
+
+These are prominent enzymes in the endocytic pathway through which soluble protein Ag enter APC , and resistant segments in Ag may , therefore , be expected to contain more T - cell determinants than susceptible segments .
+DT VBP JJ NNS IN DT JJ NN IN WDT JJ NN NN VBP NN , CC JJ NNS IN NN MD , RB , VB VBN TO VB JJR NN NN NN NNS IN JJ NNS .
+3,4 G#protein|12,13 G#protein|10,13 G#protein|14,15 G#protein|17,19 G#protein|20,21 G#protein|30,34 G#protein|35,37 G#protein
+
+From information available in the literature on the substrate specificity of the three enzymes , it is clear that a cysteine is not accepted in any of the S2 , S1 , S1' , and S2' subsites of cathepsin B and L , and not in the S1 and S1' subsites of cathepsin D .
+IN NN JJ IN DT NN IN DT JJ NN IN DT CD NNS , PRP VBZ JJ IN DT NN VBZ RB VBN IN DT IN DT NN , NN , NN , CC NN NNS IN NN NN CC NN , CC RB IN DT NN CC NN NNS IN NN NN .
+13,14 G#protein|28,37 G#protein|38,42 G#protein|47,48 G#protein|49,50 G#protein|52,54 G#protein
+
+Moreover , we have noticed that cysteine - containing T - cell determinants in a number of protein Ag are particularly rich in the amino acids alanine , glycine , lysine , leucine , serine , threonine , and valine .
+RB , PRP VBP VBN IN JJ JJ JJ NN NN NN NNS IN DT NN IN NN NN VBP RB JJ IN DT NN NNS NN , NN , NN , NN , NN , NN , CC NN .
+6,13 G#protein|18,19 G#protein|17,19 G#protein
+
+By searching protein Ag for clusters of amino acids containing cysteine and two of the other amino acids we were able to predict 17 out of 23 empirically known T - cell determinants in the Ag with a relatively low number of false ( positive ) predictions .
+IN VBG NN NN IN NNS IN NN NNS VBG NN CC CD IN DT JJ NN NNS PRP VBD JJ TO VB CD IN IN CD RB VBN NN NN NN NNS IN DT NN IN DT RB JJ NN IN JJ ( JJ ) NNS .
+3,4 G#protein|29,33 G#protein|35,36 G#protein
+
+Furthermore , we present a new principle for searching Ag for potential amphipatic alpha - helical protein segments .
+RB , PRP VBP DT JJ NN IN VBG NN IN JJ JJ JJ JJ JJ NN NNS .
+9,10 G#protein|12,18 G#protein
+
+Such segments accord well with empirically known T - cell determinants and our algorithm produces a lower number of false positive predictions than the principle based on discrete Fourier transformations previously described .
+JJ NNS VBP RB IN RB JJ NN NN NN NNS CC PRP$ NN VBZ DT JJR NN IN JJ JJ NNS IN DT NN VBN IN JJ NN NNS RB VBN .
+7,11 G#protein
+
+Contribution of NF - kappa B and Sp1 binding motifs to the replicative capacity of human immunodeficiency virus type 1 : distinct patterns of viral growth are determined by T - cell types .
+NN IN NN NN NN NN CC NN NN NNS TO DT JJ NN IN JJ NN NN NN CD : JJ NNS IN JJ NN VBP VBN IN NN NN NN NNS .
+2,6 G#protein|7,10 G#DNA|29,33 G#cell_type
+
+Starting with a replication - incompetent molecular clone of human immunodeficiency virus type 1 , lacking all the NF - kappa B and Sp1 binding sites present in the native long terminal repeat ( LTR ) , proviruses containing reconstructed LTRs with individual or combinations of NF - kappa B and Sp1 elements were generated and evaluated for their capacity to produce virus progeny following transfection - cocultivation .
+VBG IN DT JJ JJ JJ JJ NN IN JJ NN NN NN CD , VBG PDT DT NN NN NN NN CC NN NN NNS JJ IN DT JJ JJ JJ NN ( NN ) , NNS VBG VBN NNS IN JJ CC NNS IN NN NN NN NN CC NN NNS VBD VBN CC VBN IN PRP$ NN TO VB NN NN VBG NN NN NN .
+18,26 G#DNA|29,33 G#DNA|34,35 G#DNA|39,41 G#DNA|46,53 G#DNA
+
+
+

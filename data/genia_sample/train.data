@@ -1,0 +1,194 @@
+IL - 2 gene expression and NF - kappa B activation through CD28 requires reactive oxygen production by 5 - lipoxygenase .
+NN NN NN NN NN CC NN NN NN NN NN IN NN VBZ JJ NN NN IN NN NN NN .
+0,4 G#DNA|6,10 G#protein|12,13 G#protein|18,21 G#protein
+
+Activation of the CD28 surface receptor provides a major costimulatory signal for T cell activation resulting in enhanced production of interleukin - 2 ( IL - 2 ) and cell proliferation .
+NN IN DT NN NN NN VBZ DT JJ JJ NN IN NN NN NN VBG IN VBN NN IN NN NN NN ( NN NN NN ) CC NN NN .
+3,4 G#protein|3,6 G#protein|20,23 G#protein|24,27 G#protein
+
+In primary T lymphocytes we show that CD28 ligation leads to the rapid intracellular formation of reactive oxygen intermediates ( ROIs ) which are required for CD28 - mediated activation of the NF - kappa B / CD28 - responsive complex and IL - 2 expression .
+IN JJ NN NNS PRP VBP IN NN NN VBZ TO DT JJ JJ NN IN JJ NN NNS ( NNS ) WDT VBP VBN IN JJ JJ JJ NN IN DT NN NN NN JJ JJ JJ JJ JJ NN CC NN NN NN NN .
+1,4 G#cell_type|7,8 G#protein|26,27 G#protein|32,36 G#protein|37,38 G#protein|37,41 G#protein|42,45 G#protein
+
+Delineation of the CD28 signaling cascade was found to involve protein tyrosine kinase activity , followed by the activation of phospholipase A2 and 5 - lipoxygenase .
+NN IN DT NN NN NN VBD VBN TO VB NN NN NN NN , VBN IN DT NN IN NN NN CC NN NN NN .
+3,4 G#protein|10,13 G#protein|20,22 G#protein|23,26 G#protein
+
+Our data suggest that lipoxygenase metabolites activate ROI formation which then induce IL - 2 expression via NF - kappa B activation .
+PRP$ NNS VBP IN NN NNS VBP NN NN WDT RB VBP NN NN NN NN IN NN NN NN NN NN .
+4,5 G#protein|4,6 G#protein|12,15 G#protein|17,21 G#protein
+
+These findings should be useful for therapeutic strategies and the development of immunosuppressants targeting the CD28 costimulatory pathway .
+DT NNS MD VB JJ IN JJ NNS CC DT NN IN NNS VBG DT NN NN NN .
+15,16 G#protein
+
+The peri - kappa B site mediates human immunodeficiency virus type 2 enhancer activation in monocytes but not in T cells .
+DT NN NN NN NN NN VBZ JJ NN NN NN CD NN NN IN NNS CC RB IN NN NNS .
+1,6 G#DNA|7,13 G#DNA|15,16 G#cell_type|19,21 G#cell_type
+
+Human immunodeficiency virus type 2 ( HIV - 2 ) , like HIV - 1 , causes AIDS and is associated with AIDS cases primarily in West Africa .
+JJ NN NN NN CD ( NN NN NN ) , IN NN NN NN , VBZ NN CC VBZ VBN IN NN NNS RB IN NNP NNP .
+
+
+HIV - 1 and HIV - 2 display significant differences in nucleic acid sequence and in the natural history of clinical disease .
+NN NN NN CC NN NN NN VBP JJ NNS IN JJ NN NN CC IN DT JJ NN IN JJ NN .
+11,14 G#DNA
+
+Consistent with these differences , we have previously demonstrated that the enhancer / promoter region of HIV - 2 functions quite differently from that of HIV - 1 .
+JJ IN DT NNS , PRP VBP RB VBN IN DT NN NN NN NN IN NN NN NN VBZ RB RB IN DT IN NN NN NN .
+11,15 G#DNA
+
+Whereas activation of the HIV - 1 enhancer following T - cell stimulation is mediated largely through binding of the transcription factor NF - kappa B to two adjacent kappa B sites in the HIV - 1 long terminal repeat , activation of the HIV - 2 enhancer in monocytes and T cells is dependent on four cis - acting elements : a single kappa B site , two purine - rich binding sites , PuB1 and PuB2 , and a pets site .
+IN NN IN DT NN NN NN NN VBG NN NN NN NN VBZ VBN RB IN NN IN DT NN NN NN NN NN NN TO CD JJ NN NN NNS IN DT NN NN NN JJ JJ NN , NN IN DT NN NN NN NN IN NNS CC NN NNS VBZ JJ IN CD JJ JJ JJ NNS : DT JJ NN NN NN , CD JJ JJ JJ VBG NNS , NN CC NN , CC DT NN NN .
+4,8 G#DNA|20,22 G#protein|22,26 G#protein|29,32 G#DNA|34,40 G#DNA|44,48 G#DNA|49,50 G#cell_type|51,53 G#cell_type|57,61 G#DNA|64,67 G#DNA|69,74 G#DNA|75,76 G#DNA|77,78 G#DNA|81,83 G#DNA
+
+We have now identified a novel cis - acting element within the HIV - 2 enhancer , immediately upstream of the kappa B site , designated peri - kappa B .
+PRP VBP RB VBN DT JJ JJ JJ JJ NN IN DT NN NN NN NN , RB JJ IN DT NN NN NN , VBN NN NN NN NN .
+6,10 G#DNA|12,16 G#DNA|21,24 G#DNA|26,30 G#DNA
+
+This site is conserved among isolates of HIV - 2 and the closely related simian immunodeficiency virus , and transfection assays show this site to mediate HIV - 2 enhancer activation following stimulation of monocytic but not T - cell lines .
+DT NN VBZ VBN IN NNS IN NN NN NN CC DT RB JJ JJ NN NN , CC NN NNS VBP DT NN TO VB NN NN NN NN NN VBG NN IN JJ CC RB NN NN NN NNS .
+26,30 G#DNA|34,35 G#cell_line|37,41 G#cell_line
+
+This is the first description of an HIV - 2 enhancer element which displays such monocyte specificity , and no comparable enhancer element has been clearly defined for HIV - 1 .
+DT VBZ DT JJ NN IN DT NN NN NN NN NN WDT VBZ JJ NN NN , CC DT JJ NN NN VBZ VBN RB VBN IN NN NN NN .
+7,12 G#DNA|21,23 G#DNA
+
+While a nuclear factor ( s ) from both peripheral blood monocytes and T cells binds the peri - kappa B site , electrophoretic mobility shift assays suggest that either a different protein binds to this site in monocytes versus T cells or that the protein recognizing this enhancer element undergoes differential modification in monocytes and T cells , thus supporting the transfection data .
+IN DT JJ NN ( NNS ) IN CC JJ NN NNS CC NN NNS VBZ DT NN NN NN NN NN , JJ NN NN NNS VBP IN CC DT JJ NN VBZ TO DT NN IN NNS CC NN NNS CC IN DT NN VBG DT NN NN VBZ JJ NN IN NNS CC NN NNS , RB VBG DT NN NNS .
+2,4 G#protein|11,12 G#cell_type|9,12 G#cell_type|13,15 G#cell_type|17,22 G#DNA|38,39 G#cell_type|40,42 G#cell_type|48,50 G#DNA|54,55 G#cell_type|56,58 G#cell_type
+
+Further , while specific constitutive binding to the peri - kappa B site is seen in monocytes , stimulation with phorbol esters induces additional , specific binding .
+RB , IN JJ JJ NN TO DT NN NN NN NN NN VBZ VBN IN NNS , NN IN NN NNS VBZ JJ , JJ NN .
+8,13 G#DNA|16,17 G#cell_type
+
+Understanding the monocyte - specific function of the peri - kappa B factor may ultimately provide insight into the different role monocytes and T cells play in HIV pathogenesis .
+VBG DT JJ JJ JJ NN IN DT NN NN NN NN NN MD RB VB NN IN DT JJ NN NNS CC NN NNS VBP IN NN NN .
+8,13 G#protein|21,22 G#cell_type|23,25 G#cell_type
+
+E1A gene expression induces susceptibility to killing by NK cells following immortalization but not adenovirus infection of human cells .
+NN NN NN VBZ NN TO NN IN NN NNS VBG NN CC RB NN NN IN JJ NNS .
+0,2 G#DNA|8,10 G#cell_type|17,19 G#cell_type
+
+Adenovirus ( Ad ) infection and E1A transfection were used to model changes in susceptibility to NK cell killing caused by transient vs stable E1A expression in human cells .
+NN ( NN ) NN CC NN NN VBD VBN TO VB NNS IN NN TO NN NN NN VBN IN JJ CC JJ NN NN IN JJ NNS .
+6,7 G#protein|24,25 G#protein|27,29 G#cell_type
+
+Only stably transfected target cells exhibited cytolytic susceptibility , despite expression of equivalent levels of E1A proteins in Ad - infected targets .
+RB RB VBN NN NNS VBD JJ NN , IN NN IN JJ NNS IN NN NNS IN JJ JJ JJ NNS .
+2,5 G#cell_line|15,17 G#protein|18,22 G#cell_line
+
+The inability of E1A gene products to induce cytolytic susceptibility during infection was not explained by an inhibitory effect of viral infection on otherwise susceptible target cells or by viral gene effects on class I MHC antigen expression on target cells .
+DT NN IN NN NN NNS TO VB JJ NN IN NN VBD RB VBN IN DT JJ NN IN JJ NN IN RB JJ NN NNS CC IN JJ NN NNS IN NN CD NN NN NN IN NN NNS .
+3,5 G#DNA|25,27 G#cell_type|29,31 G#DNA|33,37 G#protein|39,41 G#cell_type
+
+This differential effect of E1A expression on the cytolytic phenotypes of infected and stably transfected human cells suggests that human NK cells provide an effective immunologic barrier against the in vivo survival and neoplastic progression of E1A - immortalized cells that may emerge from the reservoir of persistently infected cells in the human host .
+DT JJ NN IN NN NN IN DT JJ NNS IN JJ CC RB VBN JJ NNS VBZ IN JJ NN NNS VBP DT JJ JJ NN IN DT FW FW NN CC JJ NN IN JJ JJ JJ NNS WDT MD VB IN DT NN IN RB JJ NNS IN DT JJ NN .
+4,5 G#protein|15,17 G#cell_type|20,22 G#cell_type|19,22 G#cell_type|36,40 G#cell_line|47,50 G#cell_type
+
+Distinct signaling properties identify functionally different CD4 epitopes .
+JJ NN NNS VBP RB JJ NN NNS .
+6,8 G#protein
+
+The CD4 coreceptor interacts with non - polymorphic regions of major histocompatibility complex class II molecules on antigen - presenting cells and contributes to T cell activation .
+DT NN NN VBZ IN JJ JJ JJ NNS IN JJ NN NN NN CD NNS IN JJ JJ JJ NNS CC VBZ TO NN NN NN .
+1,3 G#protein|5,9 G#protein|10,16 G#protein|17,21 G#cell_type
+
+We have investigated the effect of CD4 triggering on T cell activating signals in a lymphoma model using monoclonal antibodies ( mAb ) which recognize different CD4 epitopes .
+PRP VBP VBN DT NN IN NN NN IN NN NN NN NNS IN DT NN NN VBG JJ NNS ( NN ) WDT VBP JJ NN NNS .
+6,7 G#protein|18,20 G#protein|21,22 G#protein|26,28 G#protein
+
+We demonstrate that CD4 triggering delivers signals capable of activating the NF - AT transcription factor which is required for interleukin - 2 gene expression .
+PRP VBP IN NN NN VBZ NNS JJ IN VBG DT NN NN NN NN NN WDT VBZ VBN IN NN NN NN NN NN .
+3,4 G#protein|11,16 G#protein|20,23 G#protein
+
+Whereas different anti - CD4 mAb or HIV - 1 gp120 could all trigger activation of the protein tyrosine kinases p56lck and p59fyn and phosphorylation of the Shc adaptor protein , which mediates signals to Ras , they differed significantly in their ability to activate NF - AT .
+IN JJ JJ JJ JJ NN CC NN NN NN NN MD DT VB NN IN DT NN NN NNS NN CC NN CC NN IN DT NN NN NN , WDT VBZ NNS TO NN , PRP VBD RB IN PRP$ NN TO VB NN NN NN .
+2,6 G#protein|7,11 G#protein|17,20 G#protein|20,21 G#protein|22,23 G#protein|27,30 G#protein|35,36 G#protein|45,48 G#protein
+
+Lack of full activation of NF - AT could be correlated to a dramatically reduced capacity to induce calcium flux and could be complemented with a calcium ionophore .
+NN IN JJ NN IN NN NN NN MD VB VBN TO DT RB VBN NN TO VB NN NN CC MD VB VBN IN DT NN NN .
+5,8 G#protein
+
+The results identify functionally distinct epitopes on the CD4 coreceptor involved in activation of the Ras / protein kinase C and calcium pathways .
+DT NNS VBP RB JJ NNS IN DT NN NN VBN IN NN IN DT NN NN NN NN NN CC NN NNS .
+5,6 G#protein|8,10 G#protein|15,16 G#protein|16,20 G#protein|15,20 G#protein
+
+Ligand - dependent repression of the erythroid transcription factor GATA - 1 by the estrogen receptor .
+JJ JJ JJ NN IN DT JJ NN NN NN NN NN IN DT NN NN .
+6,9 G#protein|9,12 G#protein|14,16 G#protein
+
+High - dose estrogen administration induces anemia in mammals .
+JJ JJ JJ NN NN VBZ NN IN NNS .
+
+
+In chickens , estrogens stimulate outgrowth of bone marrow - derived erythroid progenitor cells and delay their maturation .
+IN NNS , NNS VBP NN IN NN JJ JJ JJ JJ NN NNS CC VBP PRP$ NN .
+7,14 G#cell_type
+
+This delay is associated with down - regulation of many erythroid cell - specific genes , including alpha - and beta - globin , band 3 , band 4 . 1 , and the erythroid cell - specific histone H5 .
+DT NN VBZ VBN IN NN NN NN IN JJ JJ JJ JJ JJ NNS , VBG NN NN CC NN NN NN , NN CD , NN CD CD CD , CC DT JJ JJ JJ JJ NN NN .
+10,15 G#DNA|17,23 G#DNA|24,26 G#DNA|27,31 G#DNA|34,39 G#protein|39,40 G#protein
+
+We show here that estrogens also reduce the number of erythroid progenitor cells in primary human bone marrow cultures .
+PRP VBP RB IN NNS RB VBP DT NN IN JJ NN NNS IN JJ JJ NN NN NNS .
+10,13 G#cell_type|14,19 G#cell_line
+
+To address potential mechanisms by which estrogens suppress erythropoiesis , we have examined their effects on GATA - 1 , an erythroid transcription factor that participates in the regulation of the majority of erythroid cell - specific genes and is necessary for full maturation of erythrocytes .
+TO VB JJ NNS IN WDT NNS VBP NN , PRP VBP VBN PRP$ NNS IN NN NN NN , DT JJ NN NN WDT VBZ IN DT NN IN DT NN IN JJ JJ JJ JJ NNS CC VBZ JJ IN JJ NN IN NNS .
+16,19 G#protein|21,24 G#protein|33,38 G#DNA|45,46 G#cell_type
+
+We demonstrate that the transcriptional activity of GATA - 1 is strongly repressed by the estrogen receptor ( ER ) in a ligand - dependent manner and that this repression is reversible in the presence of 4 - hydroxytamoxifen .
+PRP VBP IN DT JJ NN IN NN NN NN VBZ RB VBN IN DT NN NN ( NN ) IN DT JJ JJ JJ NN CC IN DT NN VBZ JJ IN DT NN IN NN NN NN .
+7,10 G#protein|15,17 G#protein|18,19 G#protein
+
+ER - mediated repression of GATA - 1 activity occurs on an artificial promoter containing a single GATA - binding site , as well as in the context of an intact promoter which is normally regulated by GATA - 1 .
+JJ JJ JJ NN IN NN NN NN NN VBZ IN DT JJ NN VBG DT JJ JJ JJ JJ NN , RB RB IN IN DT NN IN DT JJ NN WDT VBZ RB VBN IN NN NN NN .
+0,1 G#protein|5,8 G#protein|12,14 G#DNA|17,21 G#DNA|30,32 G#DNA|37,40 G#protein
+
+GATA - 1 and ER bind to each other in vitro in the absence of DNA .
+NN NN NN CC NN VBP TO DT JJ FW FW IN DT NN IN NN .
+0,3 G#protein|4,5 G#protein
+
+In coimmunoprecipitation experiments using transfected COS cells , GATA - 1 and ER associate in a ligand - dependent manner .
+IN NN NNS VBG VBN NN NNS , NN NN NN CC NN VBP IN DT JJ JJ JJ NN .
+5,7 G#cell_line|8,11 G#protein|12,13 G#protein
+
+Mapping experiments indicate that GATA - 1 and the ER form at least two contacts , which involve the finger region and the N - terminal activation domain of GATA - 1 .
+NN NNS VBP IN NN NN NN CC DT NN VBP IN JJS CD NNS , WDT VBP DT NN NN CC DT JJ JJ JJ NN NN IN NN NN NN .
+4,7 G#protein|9,10 G#protein|23,28 G#protein|29,32 G#protein
+
+We speculate that estrogens exert effects on erythropoiesis by modulating GATA - 1 activity through protein - protein interaction with the ER .
+PRP VBP IN NNS VBP NNS IN NN IN VBG NN NN NN NN IN JJ JJ JJ NN IN DT NN .
+10,13 G#protein|21,22 G#protein
+
+( ABSTRACT TRUNCATED AT 250 WORDS )
+( NN VBN IN CD NNS )
+
+
+Mouse interleukin - 2 receptor alpha gene expression .
+NN NN NN NN NN NN NN NN .
+1,4 G#protein|0,7 G#DNA
+
+Interleukin - 1 and interleukin - 2 control transcription via distinct cis - acting elements .
+NN NN NN CC NN NN NN VBP NN IN JJ JJ JJ JJ NNS .
+0,3 G#protein|4,7 G#protein|11,15 G#DNA
+
+We have shown that interleukin - 1 ( IL - 1 ) and IL - 2 control IL - 2 receptor alpha ( IL - 2R alpha ) gene transcription in CD4 - CD8 -  murine T lymphocyte precursors .
+PRP VBP VBN IN NN NN NN ( NN NN NN ) CC NN NN NN VBP NN NN NN NN NN ( NN NN NN NN ) NN NN IN JJ JJ JJ JJ JJ NN NN NNS .
+4,7 G#protein|8,11 G#protein|13,16 G#protein|17,22 G#protein|23,27 G#protein|17,29 G#DNA|31,39 G#cell_line
+
+Here we map the cis - acting elements that mediate interleukin responsiveness of the mouse IL - 2R alpha gene using a thymic lymphoma - derived hybridoma ( PC60 ) .
+RB PRP VBP DT JJ JJ JJ NNS WDT VBP NN NN IN DT NN NN NN NN NN NN VBG DT JJ JJ JJ JJ NN ( NN ) .
+4,8 G#DNA|14,19 G#protein|14,20 G#DNA|22,27 G#cell_line|28,29 G#cell_line
+
+The transcriptional response of the IL - 2R alpha gene to stimulation by IL - 1 + IL - 2 is biphasic .
+DT JJ NN IN DT NN NN NN NN NN TO NN IN NN NN NN CC NN NN NN VBZ JJ .
+5,10 G#DNA|13,16 G#protein|17,20 G#protein
+
+IL - 1 induces a rapid , protein synthesis - independent appearance of IL - 2R alpha mRNA that is blocked by inhibitors of NF - kappa B activation .
+NN NN NN VBZ DT JJ , NN JJ JJ JJ NN IN NN NN NN NN NN WDT VBZ VBN IN NNS IN NN NN NN NN NN .
+0,3 G#protein|13,17 G#protein|13,18 G#RNA|24,28 G#protein
+
+
+
